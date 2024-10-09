@@ -1,0 +1,16 @@
+{
+  "manifest_version": 1.0,
+  "id": "get_host_ip",
+  "name": "Get host ip",
+  "description": "Get host ip",
+  "namespace": "GetHostIp",
+  "author": "Bagaudinov Rustam",
+  "version": "1.0",
+  "url": "https://t.me/Dark_Ph0eNix",
+  "actions": {
+    "gethostip": {
+      "class": "GetHostIp",
+      "layout": "layout.json"
+    }
+  }
+}
