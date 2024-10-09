@@ -1,7 +1,8 @@
+# Thanks
+Many thanks to [BGmot git](https://github.com/BGmot) for his modules
+
 # zabbix-module-custom-menupop
 Written according to Zabbix official documentation [Modules](https://www.zabbix.com/documentation/current/en/devel/modules/file_structure)
-
-Many thanks to [BGmot git](https://github.com/BGmot) for his modules
 
 A module for Zabbix add action **gethostip** for [Custom menupopup](https://github.com/DarkPh0eNixKrg/zabbix-module-custom-menupop)
 
