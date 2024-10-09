@@ -11,7 +11,10 @@ Module use **hostid** to return Host IP address
 Module can work with **Custom menupopup** and without them
 ```
 curl http://zabbix_server/zabbix.php?action=gethostip -H "Content-Type: application/x-www-form-urlencoded" -d "hostid=10084" 
+
+!!!Need auth to Zabbix, not API!!!
 ```
+
 
 # How to use
 1. Create a folder in your Zabbix server modules folder (by default /usr/share/zabbix/) and copy contents of this repository into that folder.
